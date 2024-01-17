@@ -1,2 +1,2 @@
 # wine-quality
-exploratory data analysis and prediction, using Python.
+Term project for "INF483 - Data Mining" course.
